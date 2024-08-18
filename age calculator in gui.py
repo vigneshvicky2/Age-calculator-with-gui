@@ -41,6 +41,5 @@ but1.place(x=500,y=400)
 #creating credits
 lnb1=tkinter.Label(bago,text="THIS PROGRAM IS CREATED BY VIGNESH",font=("arial",19))
 lnb1.place(x=250,y=500)
-bago.mainloop
-
+bago.mainloop()
 
